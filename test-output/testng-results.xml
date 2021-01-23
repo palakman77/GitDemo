@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2013" started-at="2020-05-03T09:19:10Z" finished-at="2020-05-03T09:19:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2013" started-at="2020-05-03T09:19:10Z" finished-at="2020-05-03T09:19:12Z">
+      <class name="files.StaticJson">
+        <test-method status="PASS" signature="addBook1()[pri:0, instance:files.StaticJson@d2bedc3b]" name="addBook1" duration-ms="1966" started-at="2020-05-03T09:19:10Z" finished-at="2020-05-03T09:19:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook1 -->
+      </class> <!-- files.StaticJson -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
